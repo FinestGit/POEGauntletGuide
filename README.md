@@ -47,3 +47,47 @@ Armageddon Brand - Ignite Proliferation - Combustion - Immolate **(B-B-B-B)**
 
 ### Lab Point Allocation
 Plague Bringer -> Corpse Pact -> Mistress of Sacrifice -> Essence Glutton
+
+## Leveling Zones (And How Far To Level)
+Try to always be 8-10 levels higher than the zone
+
+### Act 1
+Submerged Passage (5) **(13-15)**  
+The Ship's Graveyard (12) **(20-22)**
+
+### Act 2
+Southern Forest (13) **(23)**  
+Wetlands (19) **(27-29)**  
+Northern Forest (21) **(31)**
+
+### Act 3
+City of Sarn (23) **(33)**  
+The Docks (29) **(37-39)**
+
+### Act 4
+The Dried Lake (34) **(42-44)**  
+Kaom's Stronghold (38) **(46-48)**
+
+### Act 5
+Chamber of Innocence (43) **(51-53)**  
+**THIS IS VERY DIFFERENT AT THIS POINT**  
+Continue to level here to make sure you are at 105% Resists in everything **AND** 50-70 Life on each piece of gear.
+
+### Act 6
+The Ridge (46) **(54-56)**  
+Southern Forest (49) **(57-59)**
+
+### Act 7
+Nothing to really do here, just be careful.
+
+### Act 8
+**IMPORTANT**  
+This is when we want to begin thinking about endgame, we will be in the next zone for **WAY** longer.  
+The Harbour Bridge (60) **(75-80)**
+
+### Act 9
+Again, nothing to really do here, as we are completely overleveled from Act 8.
+
+### Act 10
+Desecrated Chambers (65) **(80-90)**  
+You can stay here until 90 to complete the gauntlet, but it may be more advantageous to have leveled to 80 in harbour bridge and just complete Act 10 than to overlevel anymore.

@@ -94,3 +94,54 @@ Again, nothing to really do here, as we are completely overleveled from Act 8.
 ### Act 10
 Desecrated Chambers (65) **(80-90)**  
 You can stay here until 90 to complete the gauntlet, but it may be more advantageous to have leveled to 80 in harbour bridge and just complete Act 10 than to overlevel anymore. Make sure you are again 105% Res on all resistances before leaving here though!
+
+## Mapping and Onwards
+
+### Gem List After Act 10
+Vaal Detonate Dead should be leveled in offhand at some point, if you have it during leveling.  
+Vaal Detonate Dead - Trinity - Fire Penetration - Unleash - Elemental Focus - Spell Cascade **(G-B-R-B-B-B)**  
+Desecrate - Spell Cascade - Spellslinger **(G-B-B)**  
+Tempest Shield **(B)**  
+Determination **(R)**  
+Defiance Banner **(R)**  
+Herald of Ash **(R)**  
+Vaal Molten Shell **(R)** *On Leftclick until Flammability Ring*  
+Wave of Conviction **(B)**  
+Bone Offering **(B)**  
+Flammability **(B)**  
+Shield Charge - Faster Attacks **(B-G)**  
+Flame Dash **(B)**  
+Frenzy - Trinity - Combustion **(G-B-B)**  
+Raise Spectre **(B)**  
+
+### Early Game Gearing
+
+#### Wand
+Spam High Tier Essences of Fear until open suffix for trigger craft [Example](https://www.craftofexile.com/?b=18&m=essence&e=1232&lv=75&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&bld={}&ggt=|&ccp={})
+
+#### Shield
+Essences or Harvest until Life / Res / Life on Block [Example](https://www.craftofexile.com/?b=5&m=essence&e=1233&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%22684%22:{%22l%22:60,%22g%22:2},%221628%22:{%22l%22:60,%22g%22:2},%221688%22:{%22l%22:60,%22g%22:1},%221966%22:{%22l%22:60,%22g%22:2}}&bld={}&ggt=|&ccp={})
+
+#### Helmet
+Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=57&m=essence&e=1233&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%22684%22:{%22l%22:60,%22g%22:1},%221628%22:{%22l%22:60,%22g%22:1},%221966%22:{%22l%22:60,%22g%22:1}}&bld={}&ggt=|&ccp={})
+
+#### Body Armour
+Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=50&m=essence&e=1233&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%22684%22:{%22l%22:60,%22g%22:1},%221628%22:{%22l%22:60,%22g%22:1},%221966%22:{%22l%22:60,%22g%22:1}}&bld={}&ggt=|&ccp={})
+
+#### Gloves
+Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=38&m=essence&e=1233&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%22684%22:{%22l%22:60,%22g%22:1},%221628%22:{%22l%22:60,%22g%22:1},%221966%22:{%22l%22:60,%22g%22:1}}&bld={}&ggt=|&ccp={})
+
+#### Boots
+Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=44&m=essence&e=1233&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%22684%22:{%22l%22:60,%22g%22:1},%221628%22:{%22l%22:60,%22g%22:1},%221966%22:{%22l%22:60,%22g%22:1}}&bld={}&ggt=|&ccp={}&aff=[null,null,null,1,1,1,1,0,1,%22m%22,%222835%22,null,1,%220%22,%220%22,%220%22]&ct=calculator)
+
+#### Amulet
+Harvest until Life / Res **No Example Because Harvest**
+
+#### Rings
+Harvest until Life / Res **No Example Because Harvest**
+
+#### Belt
+Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=3&m=essence&e=1225&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&req={%221775%22:{%22l%22:64,%22g%22:1}}&bld={}&ggt=|&ccp={})
+
+#### Jewels
+Essence or Harvest until Life / Res **No Example Because Jewels**

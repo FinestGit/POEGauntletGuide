@@ -114,7 +114,7 @@ Flame Dash **(B)**
 Frenzy - Trinity - Combustion **(G-B-B)**  
 Raise Spectre **(B)**  
 
-### Early Game Gearing
+### Early Game Gearing *(T1-T8 Maps)*
 
 #### Wand
 Spam High Tier Essences of Fear until open suffix for trigger craft [Example](https://www.craftofexile.com/?b=18&m=essence&e=1232&lv=75&ob=both&v=d&a=e&l=a&lg=8&bp=y&as=1&bld={}&ggt=|&ccp={})
@@ -145,3 +145,11 @@ Essence or Harvest until Life / Res [Example](https://www.craftofexile.com/?b=3&
 
 #### Jewels
 Essence or Harvest until Life / Res **No Example Because Jewels**
+
+### Mid Game Gearing *(T8-T16 Maps)*
+
+**WIP**
+
+### Late Game Gearing *(Sirus / Ubers)*
+
+**WIP**

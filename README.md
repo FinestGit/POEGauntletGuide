@@ -1,5 +1,8 @@
 # POE Gauntlet Guide
 
+## Introduction
+I am Finest a POE player that is attempting to play Detonate Dead in the upcoming Krangled Gauntlet, this is for my personal use, however it is a nice thing to follow for leveling and the like. This allows me to quickly glance at some information while playing as fast as possible in the gauntlet. All of these things are merely suggestions, they are not hard and fast rules. The overleveling is to keep me as safe as possible so that I don't die to something because I stop paying attention for 0.2 seconds. The most important part of this is to get to 90 and to have fun!
+
 ## Leveling Gems
 ### Level 1
 Freezing Pulse - Onslaught - Arcane Surge **(B-G-B)** **DO NOT LEVEL ARCANE SURGE**  
@@ -90,4 +93,4 @@ Again, nothing to really do here, as we are completely overleveled from Act 8.
 
 ### Act 10
 Desecrated Chambers (65) **(80-90)**  
-You can stay here until 90 to complete the gauntlet, but it may be more advantageous to have leveled to 80 in harbour bridge and just complete Act 10 than to overlevel anymore.
+You can stay here until 90 to complete the gauntlet, but it may be more advantageous to have leveled to 80 in harbour bridge and just complete Act 10 than to overlevel anymore. Make sure you are again 105% Res on all resistances before leaving here though!

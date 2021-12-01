@@ -55,7 +55,7 @@ Plague Bringer -> Corpse Pact -> Mistress of Sacrifice -> Essence Glutton
 Try to always be 8-10 levels higher than the zone
 
 ### Act 1
-Submerged Passage (5) **(13-15)**  
+Submerged Passage (5) **(13)**  
 The Ship's Graveyard (12) **(20-22)**
 
 ### Act 2

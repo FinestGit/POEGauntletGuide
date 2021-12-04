@@ -35,7 +35,7 @@ Craft 2 Fire Damage Wands **(Magic Waand + Orb of Alteration + Rare Ruby Ring)**
 ### Level 28
 **Complete Swap on Abilities**  
 Armageddon Band - Onslaught - Combustion **(B-G-B)**  
-Cremation - Elemental Focus - Lesser Multiple Projectiles **(B-B-G)**  
+Cremation - Elemental Focus - Lesser Multiple Projectiles **(G-B-G)**  
 Flammability **(B)**  
 Desecrate **(G)**  
 Wave of Conviction **(B)**  

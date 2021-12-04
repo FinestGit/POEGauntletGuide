@@ -24,8 +24,8 @@ Craft 1 Cold Damage Wand **(Magic Wand + Orb of Alteration + Normal Sapphire Rin
 
 ### Level 16
 **Get Rid of Frost Bomb**  
-Skitterbots **(B)**
-Herald of Lightning **(B)**
+Skitterbots **(B)**  
+Herald of Lightning **(B)**  
 Orb of Storms - Added Lightning Damage - Onslaught **(B-B-G)**  
 
 ### Level 20

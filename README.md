@@ -46,7 +46,7 @@ Purity of Elements **(B)**
 
 ### 4 Links
 **By Priority Order**  
-Cremation - Lesser Multiple Projectiles - Elemental Focus - Controlled Destruction **(B-G-B-B)**  
+Cremation - Lesser Multiple Projectiles - Elemental Focus - Controlled Destruction **(G-G-B-B)**  
 Armageddon Brand - Ignite Proliferation - Combustion - Immolate **(B-B-B-B)**
 
 ### Lab Point Allocation

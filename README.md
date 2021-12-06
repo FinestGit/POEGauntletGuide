@@ -57,7 +57,7 @@ Try to always be 8-10 levels higher than the zone
 
 ### Act 1
 Submerged Passage (5) **(13)**  
-The Ship's Graveyard (12) **(20-22)**
+The Ship's Graveyard (12) **(19-21)**
 
 ### Act 2
 Southern Forest (13) **(23)**  

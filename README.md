@@ -30,7 +30,7 @@ Orb of Storms - Added Lightning Damage - Onslaught **(B-B-G)**
 
 ### Level 20
 Stormblast Mine - Elemental Focus - Swift Assembly **(B-B-G)**  
-Craft 2 Fire Damage Wands **(Magic Waand + Orb of Alteration + Rare Ruby Ring)**
+Craft 2 Fire Damage Wands **(Magic Wand + Orb of Alteration + Rare Ruby Ring)**
 
 ### Level 28
 **Complete Swap on Abilities**  
